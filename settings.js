@@ -80,12 +80,12 @@ global.Menuimage = fs.readFileSync("./AnyaPikaMedia/theme/Menu/Menuimg.jpg")
 global.thumnnaiIs = fs.readFileSync("./AnyaPikaMedia/theme/Menu/Menuimg2.jpeg")
 
 //--------------- Systemic Function --------------\\
-global.autoTyping = true  
+global.autoTyping = false  
 global.autoreadpmngc = false 
 global.autoReadGc = false 
 global.autoRecord = false 
 global.available = true
-global.autoTyping = true  
+global.autoTyping = false  
 
 //----------- Users Userlimit -----------\\
 global.userLimit = {
